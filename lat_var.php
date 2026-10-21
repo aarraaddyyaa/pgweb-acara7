@@ -1,7 +1,7 @@
 <?php
 
 //DATA SINGKAT
-$pesan = "NIM 25/268733/SV/27521 ";
+$pesan = "NIM 25/568733/SV/27521 ";
 echo "Nama Saya Aradya Putra Pamungkas " . "<br>" . $pesan . "<br>";
 
 //DATA ARRAY
